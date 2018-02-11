@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculatorApp</string>
+    <string name="sqr_root">√</string>
+</resources>
